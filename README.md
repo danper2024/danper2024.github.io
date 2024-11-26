@@ -1,8 +1,8 @@
-Sample README file
-
-Another line to ensure it is working
-
 <!DOCTYPE html>
+<!-- Sample README file
+
+Another line to ensure it is working -->
+
 <html lang="en-US" class="no-js">
 <head>
     <meta charset="UTF-8">
