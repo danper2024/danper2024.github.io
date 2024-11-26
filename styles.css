@@ -1,1 +1,8 @@
-https://img1.wsimg.com/isteam/stock/63111/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1500,h:1000,cg:true
+body {
+  background-image: url('https://img1.wsimg.com/isteam/stock/63111/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1500,h:1000,cg:true');
+  background-size: cover; /* Adjust the size to cover the entire page */
+  background-repeat: no-repeat; /* Prevent the image from repeating */
+  background-attachment: fixed; /* Make the background image fixed */
+}
+
+
